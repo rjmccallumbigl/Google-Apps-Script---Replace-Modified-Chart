@@ -1,6 +1,6 @@
 /*********************************************************************************************************
 *
-* Create and insert modified chart that graphs all true values as large red stars
+* Delete all charts. Create and insert modified chart that graphs all true values as large red stars
 *
 * Instructions
 * 1. Open Google Apps Script.
